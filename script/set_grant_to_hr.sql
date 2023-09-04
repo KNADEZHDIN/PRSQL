@@ -1,0 +1,1 @@
+GRANT SELECT ON total_number_orders_v TO hr;
